@@ -29,13 +29,13 @@ namespace Capa_Vista_Contabilidad
             navegador1.AsignarTabla("tbl_cuentas");
             navegador1.AsignarNombreForm("Cuentas");
 
-            /*navegador1.AsignarComboConTabla("tbl_tipocuenta", "PK_id_tipocuenta", "serie_tipocuenta", 1); ;
-            navegador1.AsignarComboConTabla("tbl_encabezadoclasecuenta", "Pk_id_encabezadocuenta", "nombre_tipocuenta", 1);
-            navegador1.AsignarComboConTabla("tbl_cuentas", "Pk_id_cuenta", "nombre_cuenta", 1);
+            //navegador1.AsignarComboConTabla("tbl_tipocuenta", "PK_id_tipocuenta", "serie_tipocuenta", 1); ;
+            //navegador1.AsignarComboConTabla("tbl_encabezadoclasecuenta", "Pk_id_encabezadocuenta", "nombre_tipocuenta", 1);
+            //navegador1.AsignarComboConTabla("tbl_cuentas", "Pk_id_cuenta", "nombre_cuenta", 1);
 
-            navegador1.AsignarForaneas("tbl_cuentas", "nombre_cuenta", "Pk_id_cuenta", "Pk_id_cuenta");
-            navegador1.AsignarForaneas("tbl_cuentas", "nombre_cuenta", "Pk_id_cuenta", "Pk_id_cuenta");
-            navegador1.AsignarForaneas("tbl_cuentas", "nombre_cuenta", "Pk_id_cuenta_enlace", "Pk_id_cuenta"); */
+            //navegador1.AsignarForaneas("tbl_cuentas", "nombre_cuenta", "Pk_id_cuenta", "Pk_id_cuenta");
+            //navegador1.AsignarForaneas("tbl_cuentas", "nombre_cuenta", "Pk_id_cuenta", "Pk_id_cuenta");
+            //navegador1.AsignarForaneas("tbl_cuentas", "nombre_cuenta", "Pk_id_cuenta_enlace", "Pk_id_cuenta");
         }
     }
 }
